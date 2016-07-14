@@ -1,0 +1,37 @@
+{
+  "name": "swe-validation",
+  "description": "Validation for Swedish Social Security number and Corporation identity number",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/keype/swe-validation",
+  "author": {
+    "name": "Kristian Persson",
+    "email": "me@kristianpersson.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keype/swe-validation.git"
+  },
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index",
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "validate",
+    "swedish",
+    "personnummer",
+    "organisationnummer",
+    "ssn",
+    "social",
+    "security",
+    "number",
+    "social security number",
+    "corporate identity"
+  ]
+}
