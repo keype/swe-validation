@@ -1,7 +1,7 @@
 "use strict";
 
-const assert   = require('assert'),
-      validate = require('./../index');
+var assert   = require('assert'),
+    validate = require('./../index');
 
 describe('Social Security numbers', function() {
 

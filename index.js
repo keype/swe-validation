@@ -1,6 +1,6 @@
 "use strict";
 
-const   cinInfo     = require('./lib/cin'),
+var     cinInfo     = require('./lib/cin'),
         ssnInfo      = require('./lib/ssn'),
         validation   = require('./lib/validation');
 
