@@ -19,6 +19,7 @@
     "test": "mocha"
   },
   "main": "index",
+  "types": "index.d.ts",
   "devDependencies": {
     "mocha": "*"
   },
